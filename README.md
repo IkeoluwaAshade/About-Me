@@ -18,9 +18,9 @@ Open [Youtube](https://youtu.be/Lya-qYiDqIA) to view it in your browser.
 
 
 ### `Learning Outcome`
--Array
--Functions
--Object etc
+- Array
+- Functions
+- Object etc
 
 
 ### `Challenges`
