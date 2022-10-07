@@ -27,7 +27,7 @@ Open [Youtube](https://youtu.be/Lya-qYiDqIA) to view it in your browser.
 -The answers does not have a storage yet. So basically once you refresh the whole quiz starts again.
 
 
-### `Resources`
+### `Resources.`
 
 - [W3Schools](https://www.w3schools.com).
 - [Youtube](https://youtu.be/Lya-qYiDqIA).
